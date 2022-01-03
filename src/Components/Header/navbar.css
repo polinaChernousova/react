@@ -1,0 +1,30 @@
+.navbar{
+    height: 100px;
+    background-color:#6459a7;
+    display: flex;
+    justify-content: space-between; 
+    color: white;
+    
+
+}
+
+.navbar h1 {
+    margin-top: 25px;
+}
+
+.input {
+display: flex;
+height: 35px;
+margin-top: 25px;
+margin-right: 30px;
+
+
+ 
+}
+
+
+.input input {
+    border-radius: 3px;
+    border: 1px;
+    padding: 5px auto;
+} 
